@@ -1,0 +1,9 @@
+Meal tracker/Fitness App:
+Users can input meals and track calories for each day and week. Users can input workouts for each day and track gains made.
+
+MVPs:
+users can sign up and login to site
+users can enter new meal into tracker
+users can see calorie count for day and week
+users can enter workouts for each day
+users can see total lbs lifted that week
